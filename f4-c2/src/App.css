@@ -1,0 +1,23 @@
+
+.data{
+  
+  padding-left: 80px;
+  
+}
+.filter{
+  align-items: center;
+  padding-left: 80px;
+}
+
+h1{
+  align-items: center;
+  justify-content: center;
+  padding-left: 118px;
+}
+button{
+  color: black;
+  background-color:gainsboro;
+  border-color: gainsboro;
+  border-radius: 3px;
+  
+}
